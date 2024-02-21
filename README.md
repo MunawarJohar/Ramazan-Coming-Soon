@@ -2,7 +2,6 @@
 
 Welcome to the README.md for the Ramazan Countdown Counter project, built with HTML, CSS, and JavaScript! 🚀
 
-Project Description
 This project is a Ramazan countdown counter designed to mark the anticipation and arrival of the blessed month of Ramazan. It features a beautifully crafted countdown timer built using HTML, CSS, and JavaScript, allowing users to track every moment until the beginning of Ramazan.
 
 ## Features
